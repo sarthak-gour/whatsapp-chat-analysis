@@ -1,5 +1,5 @@
 # whatsapp-chat-analysis 
-Try this app [here](https://whatsapp-chats-analysis.streamlit.app/)
+Try this app - https://whatsapp-chats-analysis.streamlit.app/
 
 This app reads an exported WhatsApp chat (in 24 hour format) and then visualizes the various stats.
 
